@@ -12,7 +12,8 @@
 
 
 ## Яндекс карти
-- https://www.google.com.ua/maps 
+- https://www.google.com.ua/maps
+- https://www.bing.com/maps
 - https://www.openstreetmap.org
 - http://wikimapia.org
 - https://maps.visicom.ua
